@@ -1,0 +1,33 @@
+.question-box{
+    display: flex;
+    flex-direction: column;
+    height: 60%;
+}
+
+input{
+    height: 100%;
+    font-size: 1em;
+}
+
+.question{
+    color: red;
+}
+
+.answer{
+    color: blue;
+}
+
+.horizontal-line{
+    margin: 15px 0;
+}
+
+
+.right{
+    font-weight: bold;
+    color: lightgreen;
+}
+
+.wrong{
+    font-weight: bold;
+    color: red;
+}
