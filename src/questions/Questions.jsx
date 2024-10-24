@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import updatedData from '../../data.js';
+import updatedData from '../../engQuestions.js';
 import './questions.css';
 
 function Questions(props) {
